@@ -7,6 +7,7 @@
 #### Class and Attributes
     > Class name: Tattoos
     > Attributes:
-       * Duration : Integer
-       * Cost : Integer
-       * Colored : Boolean
+* Customer: Stringc
+* Duration : Integer
+* Cost : Integer
+* Colored : Boolean
