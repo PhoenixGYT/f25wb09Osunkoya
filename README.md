@@ -6,7 +6,7 @@
 ----------------------
 #### Class and Attributes
     > Class name: Tattoos
-    > Attributes:
+Attributes:
 * Customer: Stringc
 * Duration : Integer
 * Cost : Integer
